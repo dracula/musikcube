@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/musikcubex](https://draculatheme.com/musikcube).
+All instructions can be found at [draculatheme.com/musikcube](https://draculatheme.com/musikcube).
 
 ## Team
 
